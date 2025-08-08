@@ -35,7 +35,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Franxx321&show_icons=true&locale=en&layout=compact&theme=radical)] 
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=franxx321&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
 
